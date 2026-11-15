@@ -115,6 +115,6 @@ TodoList-078/
 
 ## 👤 Author
 
-- **Name:** Torikul Islam Saher
+- **Name:** Torikul Islam
 - **Student ID:** 2207078
 - **GitHub:** [@THE-FOOL-T](https://github.com/THE-FOOL-T)
